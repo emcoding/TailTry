@@ -1,6 +1,6 @@
 module.exports = {
   purge: [
-    './*.html'
+    'index.html'
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
@@ -8,10 +8,14 @@ module.exports = {
       colors: {
         brand: {
           light: "#2E8B57",
-          DEFAULT: "#0f766e",
-          dark: "#047857",
+          dark: "#0f766e",
+          DEFAULT: "#047857",
         }
-      }
+      },
+      fontFamily: {
+        headline: "Catamaran, sans-serif",
+        body: "inter, sans-serif",
+      } 
     },
   },
   variants: {
