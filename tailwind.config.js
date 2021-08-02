@@ -14,7 +14,8 @@ module.exports = {
       },
       fontFamily: {
         headline: "Catamaran, sans-serif",
-        body: "inter, sans-serif",
+        bodycopy: "Inter, sans-serif",
+        body: "serif"
       } 
     },
   },
