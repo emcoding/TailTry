@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "postcss css/tailwind.css"
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
