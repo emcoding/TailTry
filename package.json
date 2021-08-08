@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "preview": "vite preview",
-    "build": "vite build"
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
