@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/home              /
+/pages/artikelen.html /pages/artikelen  200
+# /news              /blog
+/aanmelden            https://www.app.strippenkaart.nl
