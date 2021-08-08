@@ -13,7 +13,6 @@
   "description": "",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
-    "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7",
     "vite": "^2.4.3"
   },
@@ -21,6 +20,7 @@
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@tailwindcss/aspect-ratio": "^0.2.1",
     "@tailwindcss/forms": "^0.3.3",
-    "@tailwindcss/typography": "^0.4.1"
+    "@tailwindcss/typography": "^0.4.1",
+    "postcss": "^8.3.6"
   }
 }
