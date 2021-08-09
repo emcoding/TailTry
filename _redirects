@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /home               /
-/artikelen          /pages/artikelen.html 200!
+/artikelen          /pages/artikelen/index.html 200!
 /aanmelden          https://app.strippenkaart.nl/users/sign_up
